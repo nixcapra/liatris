@@ -35,7 +35,7 @@ Additionally, please note that there are many other impressive to-do apps for GN
 - Clean up and compartmentalize liatris.py.
 - Make packages available, primarily .deb, Flatpak, and/or AppImage.
 - Port the GUI to Gtk4 and libadw.
-- Improve the logo.
+- ✔ Improve the logo. 
 - Add XDG desktop integration.
 - Implement a feature to export and import data.
 - Generally enhance the code quality.
