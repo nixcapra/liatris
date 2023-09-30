@@ -1,4 +1,4 @@
-![](https://github.com/nixcapra/liatris/blob/main/media/liatris_logo_128.png)
+![](https://github.com/nixcapra/liatris/blob/main/media/icons/icon_256.png)
 # Liatris
 Liatris is a simple to-do app that I created for myself some time ago. I originally wrote this as part of another project and have now decided to open-source it. Please note that it lacks many features that are considered essential in most to-do apps, such as cloud syncing. Additionally, it utilizes its own database model and is not compatible with anything else. Liatris was loosely inspired by other to-do apps, like [Things](https://culturedcode.com/things/).
 

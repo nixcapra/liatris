@@ -5,7 +5,7 @@
   <object class="GtkAboutDialog" id="AboutDialog">
     <property name="can-focus">False</property>
     <property name="default-width">600</property>
-    <property name="icon">../media/liatris_logo.svg</property>
+    <property name="icon">../media/icons/icon_128.png</property>
     <property name="type-hint">dialog</property>
     <property name="program-name">Liatris</property>
     <property name="comments" translatable="yes">Simple To-Do App for the GNOME Desktop</property>
@@ -31,7 +31,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.</property>
     <property name="authors">nixcapra</property>
-    <property name="logo">../media/liatris_logo.svg</property>
+    <property name="logo">../media/icons/icon_128.png</property>
     <property name="license-type">custom</property>
     <child internal-child="vbox">
       <object class="GtkBox" id="AboutDiagBox">
@@ -381,7 +381,7 @@ one at a time.</property>
     <property name="resizable">False</property>
     <property name="default-width">550</property>
     <property name="default-height">260</property>
-    <property name="icon">../media/liatris_logo.svg</property>
+    <property name="icon">../media/icons/icon_128.png</property>
     <property name="deletable">False</property>
     <child>
       <object class="GtkBox" id="LiatrisSettingsMainGrid">
@@ -671,7 +671,7 @@ font.</property>
     <property name="can-focus">False</property>
     <property name="default-width">800</property>
     <property name="default-height">505</property>
-    <property name="icon">../media/liatris_logo.svg</property>
+    <property name="icon">../media/icons/icon_128.png</property>
     <child>
       <object class="GtkBox" id="MainBox">
         <property name="visible">True</property>
