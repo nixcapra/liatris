@@ -23,19 +23,3 @@ Install the following on Debian 12:
 Then run:
 
     python3 liatris.py
-    
-# Improving
-
-I am generally open and grateful for contributions, but please understand that I may not be able to respond to pull requests (PRs) promptly. If you wish to report a bug, I am also appreciative. However, please be aware that I will disregard any theming bugs that I cannot reproduce on Adwaita.
-
-Additionally, please note that there are many other impressive to-do apps for GNOME available, which may or may not deserve your attention more than mine.
-
-### Things that i want to do in the future:
-
-- Clean up and compartmentalize liatris.py.
-- Make packages available, primarily .deb, Flatpak, and/or AppImage.
-- Port the GUI to Gtk4 and libadw.
-- ✔ Improve the logo. 
-- Add XDG desktop integration.
-- Implement a feature to export and import data.
-- Generally enhance the code quality.
